@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  db: 'mongodb://root:abc123@ds043002.mongolab.com:43002/yasuweb' + '/mean-dev',
+  db: 'mongodb://root:abc123@ds043002.mongolab.com:43002/yasuweb',
   debug: true,
   logging: {
     format: 'tiny'
